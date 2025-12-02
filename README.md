@@ -2,6 +2,10 @@
 
 Object detection comparison between YOLOv8 and Faster R-CNN on 16 images.
 
+## How to run
+Open the notebook in Google Colab → Runtime → Run all  
+(it automatically installs ultralytics and torchvision).
+
 ## Key Results
 - Average YOLOv8 time: 0.94 s  
 - Average Faster R-CNN time: 8.19 s  
